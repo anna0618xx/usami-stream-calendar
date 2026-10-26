@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:45:42.050939+00:00",
+  "generatedAt": "2026-10-26T09:02:45.244295+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14048,6 +14048,18 @@
       "start": "2026-10-25T12:05:16Z",
       "end": "2026-10-25T13:44:27Z",
       "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "tT49-8HaPqA",
+      "title": "【スト6】テンさんと一応初めましてのたますぃ10先【宇佐美リト/にじさんじ】",
+      "start": "2026-10-26T11:00:00Z",
+      "end": null,
+      "status": "upcoming",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
