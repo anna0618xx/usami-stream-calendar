@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:07:50.860856+00:00",
+  "generatedAt": "2026-10-30T20:56:37.298563+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14084,6 +14084,18 @@
       "start": "2026-10-30T04:33:30Z",
       "end": "2026-10-30T06:32:29Z",
       "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "oLxh7CSXSWo",
+      "title": "IRIS OUT / 宇佐美リト cover",
+      "start": "2026-10-31T09:30:00Z",
+      "end": null,
+      "status": "upcoming",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
