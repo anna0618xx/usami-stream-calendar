@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T20:59:47.994196+00:00",
+  "generatedAt": "2026-10-30T09:07:50.860856+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14071,6 +14071,18 @@
       "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #2【宇佐美リト/にじさんじ】",
       "start": "2026-10-28T12:00:13Z",
       "end": "2026-10-28T14:02:08Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "u1XYdwoKNZc",
+      "title": "【スト6】正義か悪かどっが悪いか言ってみましょーーーーーー！！！！！【宇佐美リト/にじさんじ】",
+      "start": "2026-10-30T04:33:30Z",
+      "end": "2026-10-30T06:32:29Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
