@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:57:32.891091+00:00",
+  "generatedAt": "2026-10-31T20:52:24.567260+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14093,9 +14093,21 @@
     {
       "videoId": "oLxh7CSXSWo",
       "title": "IRIS OUT / 宇佐美リト cover",
-      "start": "2026-10-31T09:30:00Z",
-      "end": null,
-      "status": "upcoming",
+      "start": "2026-10-31T09:30:10Z",
+      "end": "2026-10-31T09:34:33Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "0uEiR9NXvPw",
+      "title": "【雑談】歌ってみた動画を投稿しますたしハッピーハロウィン【宇佐美リト/にじさんじ】",
+      "start": "2026-10-31T12:30:29Z",
+      "end": "2026-10-31T13:43:17Z",
+      "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
