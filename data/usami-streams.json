@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:01:57.151027+00:00",
+  "generatedAt": "2026-11-01T20:53:24.226778+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14107,6 +14107,18 @@
       "title": "【雑談】歌ってみた動画を投稿しますたしハッピーハロウィン【宇佐美リト/にじさんじ】",
       "start": "2026-10-31T12:30:29Z",
       "end": "2026-10-31T13:43:17Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "gkWczf_4u2o",
+      "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #3【宇佐美リト/にじさんじ】",
+      "start": "2026-11-01T14:00:17Z",
+      "end": "2026-11-01T17:21:25Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
