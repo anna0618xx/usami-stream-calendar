@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:53:24.226778+00:00",
+  "generatedAt": "2026-11-02T09:24:37.080533+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14115,12 +14115,36 @@
       "source": "youtube"
     },
     {
+      "videoId": "0Upn8CBbEvI",
+      "title": "にじさんじ×TECH.C.【コラボオープンキャンパス#11】",
+      "start": "2026-11-01T04:30:10Z",
+      "end": "2026-11-01T06:08:11Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UC-Z5-yYeAcnZheegpkm6IDA",
+      "channel": "東京デザインテクノロジーセンター専門学校",
+      "channelType": "collab",
+      "source": "nijisanji-wiki"
+    },
+    {
       "videoId": "gkWczf_4u2o",
       "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #3【宇佐美リト/にじさんじ】",
       "start": "2026-11-01T14:00:17Z",
       "end": "2026-11-01T17:21:25Z",
       "status": "ended",
       "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "m2U2aBa7uIE",
+      "title": "#にじたうんでまちあわせ 踊ってみた【宇佐美リト/にじさんじ】#shorts",
+      "start": "2026-11-02T09:00:38Z",
+      "end": null,
+      "status": "published",
+      "kind": "video",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
       "channelType": "self",
