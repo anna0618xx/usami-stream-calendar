@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T09:08:29.119891+00:00",
+  "generatedAt": "2026-11-03T21:02:27.469930+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14145,6 +14145,18 @@
       "end": null,
       "status": "published",
       "kind": "video",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "hz3-WcgmFpo",
+      "title": "【3秒ばなな】3秒ルール【宇佐美リト/にじさんじ】",
+      "start": "2026-11-03T11:45:29Z",
+      "end": "2026-11-03T14:02:35Z",
+      "status": "ended",
+      "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
       "channelType": "self",
