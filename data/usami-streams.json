@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T21:02:27.469930+00:00",
+  "generatedAt": "2026-11-04T09:14:16.977674+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14157,6 +14157,18 @@
       "end": "2026-11-03T14:02:35Z",
       "status": "ended",
       "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "7hxDwVxvpHA",
+      "title": "#テキトーダンス テキトーリョク / 葛葉 踊ってみた【宇佐美リト/にじさんじ】#shorts",
+      "start": "2026-11-04T09:00:06Z",
+      "end": null,
+      "status": "published",
+      "kind": "video",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
       "channelType": "self",
