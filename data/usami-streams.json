@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T21:06:09.767835+00:00",
+  "generatedAt": "2026-11-06T09:13:43.128443+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14192,6 +14192,18 @@
       "start": "2026-11-05T13:12:46Z",
       "end": "2026-11-05T17:11:55Z",
       "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "f6hEphY_seI",
+      "title": "【LoL】空白の100年【宇佐美リト/にじさんじ】",
+      "start": "2026-11-06T07:21:23Z",
+      "end": null,
+      "status": "live",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
