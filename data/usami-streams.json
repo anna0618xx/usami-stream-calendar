@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T09:05:27.465214+00:00",
+  "generatedAt": "2026-11-08T20:53:45.863322+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14215,6 +14215,18 @@
       "title": "【ゼルダの伝説 時のオカリナ】Switch2版！ほぼ初見プレイ！ #1 【宇佐美リト/にじさんじ】",
       "start": "2026-11-06T12:00:52Z",
       "end": "2026-11-06T16:47:33Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "TDfDTke9xvA",
+      "title": "【ゼルダの伝説 時のオカリナ】Switch2版！ほぼ初見プレイ！ #2 【宇佐美リト/にじさんじ】",
+      "start": "2026-11-08T12:30:53Z",
+      "end": "2026-11-08T15:14:08Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
