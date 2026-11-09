@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:30:12.340340+00:00",
+  "generatedAt": "2026-11-09T21:08:32.103970+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14227,6 +14227,18 @@
       "title": "【ゼルダの伝説 時のオカリナ】Switch2版！ほぼ初見プレイ！ #2 【宇佐美リト/にじさんじ】",
       "start": "2026-11-08T12:30:53Z",
       "end": "2026-11-08T15:14:08Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "DG3BbWP1GKE",
+      "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #5【宇佐美リト/にじさんじ】",
+      "start": "2026-11-09T13:00:19Z",
+      "end": "2026-11-09T16:58:55Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
