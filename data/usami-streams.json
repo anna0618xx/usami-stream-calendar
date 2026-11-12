@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T09:13:18.716903+00:00",
+  "generatedAt": "2026-11-12T09:18:24.421265+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14239,6 +14239,30 @@
       "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #5【宇佐美リト/にじさんじ】",
       "start": "2026-11-09T13:00:19Z",
       "end": "2026-11-09T16:58:55Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "Xv9cxua63Ik",
+      "title": "【CallMeUSAMI】ギリ秋！モスバーガー月見シリーズ食べ比べる食欲の秋！【宇佐美リト/にじさんじ】",
+      "start": "2026-11-11T09:30:31Z",
+      "end": null,
+      "status": "published",
+      "kind": "video",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "a1KDiY9_gwA",
+      "title": "【雑談】ティルゲリスコーシノンビ～リ～ｼｯﾎﾟﾘ【宇佐美リト/にじさんじ】",
+      "start": "2026-11-11T12:32:26Z",
+      "end": "2026-11-11T13:44:20Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
