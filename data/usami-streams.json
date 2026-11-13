@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:16:30.446313+00:00",
+  "generatedAt": "2026-11-13T21:07:59.573168+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14273,14 +14273,26 @@
     {
       "videoId": "WYBOV4cx_bc",
       "title": "【#ととのうにじさんじ】ととのいのお時間です【戌亥とこ/宇佐美リト/にじさんじ】",
-      "start": "2026-11-13T10:00:00Z",
-      "end": null,
-      "status": "upcoming",
+      "start": "2026-11-13T09:59:08Z",
+      "end": "2026-11-13T11:07:16Z",
+      "status": "ended",
       "kind": "stream",
       "channelId": "UCXRlIK3Cw_TJIQC5kSJJQMg",
       "channel": "戌亥とこ -Inui Toko-",
       "channelType": "collab",
       "source": "nijisanji-wiki"
+    },
+    {
+      "videoId": "dzVoQrcQYcg",
+      "title": "【#消えるミュージカル歌枠】ピアノ伴奏でミュージカル楽曲を歌います！ 佐伯イッテツ 周央サンゴ【宇佐美リト/にじさんじ】",
+      "start": "2026-11-14T11:00:00Z",
+      "end": null,
+      "status": "upcoming",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
     }
   ]
 }
