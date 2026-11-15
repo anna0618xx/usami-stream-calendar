@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:04:36.428852+00:00",
+  "generatedAt": "2026-11-15T20:55:49.009169+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14288,6 +14288,18 @@
       "start": "2026-11-14T12:30:06Z",
       "end": "2026-11-14T12:36:21Z",
       "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "dsN3vtA-cgY",
+      "title": "【LoL】できっこないをやらなくちゃ【宇佐美リト/にじさんじ】",
+      "start": "2026-11-15T11:53:27Z",
+      "end": null,
+      "status": "live",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
