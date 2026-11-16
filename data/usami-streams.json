@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:20:19.766516+00:00",
+  "generatedAt": "2026-11-16T21:04:59.092247+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14305,6 +14305,18 @@
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
       "channelType": "self",
       "source": "youtube"
+    },
+    {
+      "videoId": "HX4r5eI1c-k",
+      "title": "【知る】兄弟つってんのにお互いのことなんも知らないの何【宇佐美リト / 狂蘭メロコ】",
+      "start": "2026-11-16T13:05:09Z",
+      "end": "2026-11-16T15:26:18Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
+      "channel": "Meloco Kyoran【NIJISANJI EN】",
+      "channelType": "collab",
+      "source": "nijisanji-wiki"
     }
   ]
 }
