@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:04:59.092247+00:00",
+  "generatedAt": "2026-11-17T09:20:35.363452+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14317,6 +14317,30 @@
       "channel": "Meloco Kyoran【NIJISANJI EN】",
       "channelType": "collab",
       "source": "nijisanji-wiki"
+    },
+    {
+      "videoId": "kbAUePFeR70",
+      "title": "【ゼルダの伝説 時のオカリナ】Switch2版！ほぼ初見プレイ！ #3 【宇佐美リト/にじさんじ】",
+      "start": "2026-11-17T11:00:00Z",
+      "end": null,
+      "status": "upcoming",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "uGHDueafh4o",
+      "title": "【#にじエルリス】ビタミンしぃしぃをご紹介！？【宇佐美リト/にじさんじ】",
+      "start": "2026-11-18T11:00:00Z",
+      "end": null,
+      "status": "upcoming",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
     }
   ]
 }
