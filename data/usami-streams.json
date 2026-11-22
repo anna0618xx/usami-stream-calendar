@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:23:42.424813+00:00",
+  "generatedAt": "2026-11-22T16:21:42.958341+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14371,6 +14371,18 @@
       "title": "【Apex Legends】大会に向けて顔を合わせます。 メイカさん 一ノ瀬さん【宇佐美リト/にじさんじ】",
       "start": "2026-11-20T13:03:03Z",
       "end": "2026-11-20T18:04:25Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "KrZSgS8Ca6c",
+      "title": "【Apex Legends】#ぶいすぽGG スクリムだ！！！ メイカさん 一ノ瀬さん【宇佐美リト/にじさんじ】",
+      "start": "2026-11-22T10:37:47Z",
+      "end": "2026-11-22T13:17:26Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
