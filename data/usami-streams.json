@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T20:19:03.633725+00:00",
+  "generatedAt": "2026-11-24T19:33:02.712622+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14395,6 +14395,18 @@
       "title": "【Apex Legends】#ぶいすぽGG 大会本番だ！！！ メイカさん 一ノ瀬さん【宇佐美リト/にじさんじ】",
       "start": "2026-11-23T09:59:42Z",
       "end": "2026-11-23T13:07:07Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
+    },
+    {
+      "videoId": "N9PwpKTaXd8",
+      "title": "【ゼルダの伝説 時のオカリナ】Switch2版！ほぼ初見プレイ！ #4 【宇佐美リト/にじさんじ】",
+      "start": "2026-11-24T13:02:36Z",
+      "end": "2026-11-24T16:01:32Z",
       "status": "ended",
       "kind": "stream",
       "channelId": "UCambvP8yxNDot4FzQc9cgiw",
