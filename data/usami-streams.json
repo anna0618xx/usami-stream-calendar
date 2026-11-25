@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T03:34:39.792079+00:00",
+  "generatedAt": "2026-11-25T18:40:56.340823+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14355,6 +14355,18 @@
       "source": "youtube"
     },
     {
+      "videoId": "gkpy96zXQuM",
+      "title": "【＃ぐちゃガチャ】はじめましての方と突発対談！？ゲスト：宇佐美リト様【ぶいすぽっ！ #銀城サイネ 】",
+      "start": "2026-11-19T11:02:12Z",
+      "end": "2026-11-19T12:17:34Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UC2xXx1m1jeL0W84_0jTg-Yw",
+      "channel": "銀城サイネ / Ginjo Saine",
+      "channelType": "collab",
+      "source": "nijisanji-wiki"
+    },
+    {
       "videoId": "Pa2CtOD_alI",
       "title": "【ONEPIECE 海のごちそうレストラン】いつもクソお世話になっております。 #6【宇佐美リト/にじさんじ】",
       "start": "2026-11-19T15:35:01Z",
@@ -14413,6 +14425,18 @@
       "channel": "宇佐美リト / Usami Rito【にじさんじ】",
       "channelType": "self",
       "source": "youtube"
+    },
+    {
+      "videoId": "-fgIsIe-t8Y",
+      "title": "【パドルパドルパドる】宇佐美さんと気合いの鬼漕ぎ🚤【鬼ヶ谷テン/ネオポルテ】",
+      "start": "2026-11-25T11:10:14Z",
+      "end": "2026-11-25T14:21:52Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCv3EicDtxObcZZmnFcHvNnw",
+      "channel": "鬼ヶ谷 テン / Onigaya Ten",
+      "channelType": "collab",
+      "source": "nijisanji-wiki"
     }
   ]
 }
