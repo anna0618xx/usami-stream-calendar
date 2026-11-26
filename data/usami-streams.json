@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:53:31.214367+00:00",
+  "generatedAt": "2026-11-26T18:28:21.334755+00:00",
   "channelId": "UCambvP8yxNDot4FzQc9cgiw",
   "streams": [
     {
@@ -14437,6 +14437,18 @@
       "channel": "鬼ヶ谷 テン / Onigaya Ten",
       "channelType": "collab",
       "source": "nijisanji-wiki"
+    },
+    {
+      "videoId": "_zi4341rNQE",
+      "title": "【Cursed Companions】にじさんじバスターズの方々と協力ホラゲー【宇佐美リト/にじさんじ】",
+      "start": "2026-11-26T12:05:21Z",
+      "end": "2026-11-26T14:03:34Z",
+      "status": "ended",
+      "kind": "stream",
+      "channelId": "UCambvP8yxNDot4FzQc9cgiw",
+      "channel": "宇佐美リト / Usami Rito【にじさんじ】",
+      "channelType": "self",
+      "source": "youtube"
     }
   ]
 }
